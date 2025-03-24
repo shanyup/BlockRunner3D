@@ -1,12 +1,12 @@
 # Block Runner 3D
 
-## İçerikler:
--Market sayfası ile skin alımı yapılabiliyor.
--Admob Ads plugin eklentisi hazırda bulunuyor.
--Veri kayıt sistemi ile oyun verileri kaydediliyor. (JSON sistemi kullanılıyor)
--15 benzersiz level üzerinde sonsuz level oluşturmak için level creator bulunmaktadır.
+## Contents:
+-Skin purchases can be made with the market page.
+-Admob Ads plugin plugin plugin is ready.
+-Game data is saved with the data logging system (JSON system is used)
+-There is a level creator to create infinite levels on 15 unique levels.
 
-## Oyundan Video:
+## Video from the Game:
 
 https://user-images.githubusercontent.com/54684762/230939609-ae56feb9-97a0-4737-b85b-98b3ebaefacd.mov
 
